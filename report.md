@@ -11,9 +11,6 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* [Приложение Money Transfer](https://github.com/tuzova/money-transfer/blob/master/src/Main.java)
-
 В качестве тестовых данных использовались данные об операции пополнения по счету клиента:
 * текущий баланс счёта клиента - 2 000 000 000 (два миллиарда рублей)
 * сумма перевода - 500 000 000 (пятьсот миллионов рублей)
@@ -23,4 +20,5 @@
 * Windows 10, 20H2, x64
 * OpenJDK version 11.0.11
 * IntelliJ IDEA Community Edition 2021.1.2 x64
+* [Приложение Money Transfer](https://github.com/tuzova/money-transfer/blob/master/src/Main.java)
 
